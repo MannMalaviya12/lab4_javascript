@@ -15,7 +15,15 @@
         "type": "milkshake-type ice-cream",
         "ingredients": ["Peach Syrup", "Mango chunks", "Vanilla Base"],
         "image": "https://priyansht.github.io/24W-JavaScript-02-Week11/images/peach-mango.svg"
-    }, {
+    }, 
+    {
+        "name": "Green Gems",
+        "calories": 245,
+        "type": "ice-cream Cone",
+        "ingredients": ["Pista Syrup", "M&M pieces", "Vanilla Base"],
+        "image": "https://mannmalaviya12.github.io/lab4_javascript/images/ice-cream-xtra1.svg"
+    },
+    {
         "name": "Strawberry Sprinkle",
         "calories": 300,
         "type": "milkshake-ice-cream",
