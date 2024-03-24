@@ -20,8 +20,15 @@
         "name": "Green Gems",
         "calories": 245,
         "type": "ice-cream Cone",
-        "ingredients": ["Pista Syrup", "M&M pieces", "Vanilla Base"],
+        "ingredients": ["Pista Syrup", "M&M pieces", "Vanilla Base", "Cone Base"],
         "image": "https://mannmalaviya12.github.io/lab4_javascript/images/ice-cream-xtra1.svg"
+    },
+    {
+        "name": "Choco-ButterScotch",
+        "calories": 245,
+        "type": "ice-cream Cone",
+        "ingredients": ["ButterScotch Syrup", "Chocolate Chunks", "Vanilla Base", "Cone Base"],
+        "image": "https://mannmalaviya12.github.io/lab4_javascript/images/ice-cream-xtra2.svg"
     }, {
         "name": "Strawberry Sprinkle",
         "calories": 334,
